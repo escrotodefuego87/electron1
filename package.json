@@ -1,0 +1,19 @@
+{
+  "name": "prueba1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.7.5",
+    "electron": "^6.0.2",
+    "electron-reload": "^1.5.0",
+    "materialize-css": "^1.0.0-rc.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
